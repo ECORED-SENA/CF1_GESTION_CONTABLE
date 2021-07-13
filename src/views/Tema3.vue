@@ -17,6 +17,8 @@
 
     p.mb-5 A lo largo de la historia se han configurado diversos aportes que lograron consolidar lo que se conoce hoy en día como el proceso administrativo, el cual está integrado por las siguientes etapas: planeación, organización, dirección y control. A continuación, se presentan algunos autores con sus principales aportes (Angulo, 2018; Münch, 2015; Sánchez, 2015; Vilches, 2019):
 
+    h4.text-center.mb-4 Aportes
+
     .tabla-a.color-acento-contenido.overflow_x.mb-5
       table(style="min-width:1000px")
         thead
@@ -27,26 +29,26 @@
         tbody
           tr
             td.text-center Administraci&oacute;n   cient&iacute;fica   
-            td.text-center Frederick Taylor,   Henry Lawrence Gantt, Robinson Towne, Henry Metcalf.   
-            td Se da importancia al   manejo de incentivos, selecci&oacute;n del personal.  
+            td.text-center Frederick Taylor,   Henry Lawrence Gantt, Robinson Towne, Henry Metcalf  
+            td Se da importancia al   manejo de incentivos, selecci&oacute;n del personal 
               
           tr.oddRow
             td.text-center Teor&iacute;a Cl&aacute;sica               
-            td.text-center Henri Fayol.              
-            td Desarrolla las &aacute;reas   funcionales que debe tener la organizaci&oacute;n. De igual manera se establecen los   14 principios de administraci&oacute;n relacionados con la organizaci&oacute;n del trabajo   y especializaci&oacute;n del trabajador.   
+            td.text-center Henri Fayol             
+            td Desarrolla las &aacute;reas   funcionales que debe tener la organizaci&oacute;n. De igual manera se establecen los   14 principios de administraci&oacute;n relacionados con la organizaci&oacute;n del trabajo   y especializaci&oacute;n del trabajador   
             
           tr
             td.text-center Escuela Humanista   
-            td.text-center George Elton Mayo,   Roberto Owen.   
-            td Tiene &eacute;nfasis en los   valores humanos, motivaci&oacute;n, liderazgo y estudio de las necesidades del   personal.
+            td.text-center George Elton Mayo, Roberto Owen  
+            td Tiene &eacute;nfasis en los valores humanos, motivaci&oacute;n, liderazgo y estudio de las necesidades del   personal
           tr.oddRow
             td.text-center Enfoque   estructuralista   
-            td.text-center Renate Mayntz, Etzioni   Amitai.   
-            td Relaciona los tipos de   autoridad, estructura de las organizaciones, descentralizaci&oacute;n, manejo de conflictos,   busca interrelacionar las empresas con el entorno.               
+            td.text-center Renate Mayntz, Etzioni Amitai  
+            td Relaciona los tipos de   autoridad, estructura de las organizaciones, descentralizaci&oacute;n, manejo de conflictos,   busca interrelacionar las empresas con el entorno          
           tr
             td.text-center Escuela Neocl&aacute;sica              
-            td.text-center Peter Drucker,   Lawrence Appley, George Terry.   
-            td Tienen en cuenta la   administraci&oacute;n por objetivos, profundizaci&oacute;n en el proceso administrativo.   Hace &eacute;nfasis al modelo actual.
+            td.text-center Peter Drucker,   Lawrence Appley, George Terry   
+            td Tienen en cuenta la   administraci&oacute;n por objetivos, profundizaci&oacute;n en el proceso administrativo.   Hace &eacute;nfasis al modelo actual
 
     p Actualmente, existen otros enfoques que contribuyen notoriamente con las necesidades de las organizaciones y su entorno, entre ellas se encuentran: Benchmarking, Calidad total, Empowerment, Downsizing, Coaching, Balanced Scorecard y Teorías de restricciones, las cuales dan respuesta a los criterios de eficiencia, eficacia y valor agregado (Angulo, 2018; Münch, 2015; Sánchez, 2015; Vilches, 2019).
 

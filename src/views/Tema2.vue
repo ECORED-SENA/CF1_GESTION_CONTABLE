@@ -60,7 +60,7 @@
 
               p #[strong Empresas de economía mixta:] son creadas con aportes de capital privado y público.  
 
-          .row.align-items-top.my-3.p-3(titulo="Según el grupo de presentación de información ginanciera")
+          .row.align-items-top.my-3.p-3(titulo="Según el grupo de presentación de información financiera")
             .col-auto.mb-4.mb-lg-0        
               img(src="@/assets/tema2/img_2_1_04.svg", alt="alt", style="width:90px;")          
             .col-lg
@@ -79,7 +79,7 @@
 
               p #[strong Grupo 2:] son las empresas que aplican las NIIF para Pymes. De acuerdo con el Decreto 2420 y 2496 de 2015, son: Empresas que tengan activos totales por valor entre quinientos (500) y treinta mil (30.000) SMMLV o planta de personal entre once (11) y doscientos (200) trabajadores, y que no sean emisores de valores ni entidades de interés público. Microempresas que tengan activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los (10) trabajadores, y cuyos ingresos brutos anuales sean iguales o superiores a 6.000 SMMLV (Sistema Único de Información Normativa, 2020).
 
-              p #[strong Grupo 3] son las empresas que aplican contabilidad simplificada para microempresas. De acuerdo con el Decreto 2420 y 2496 de 2015, son: personas naturales o jurídicas que cumplan los criterios establecidos en el art. 499 del Estatuto Tributario (ET) y normas posteriores que lo modifiquen. Para el efecto se tomará el equivalente a UVT, en salarios mínimos legales vigentes. b) Microempresas que tengan Activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los (10) trabajadores que no cumplan con los requisitos para ser incluidas en el grupo 2 ni en el literal anterior (Sistema Único de Información Normativa, 2020).      
+              p #[strong Grupo 3:] son las empresas que aplican contabilidad simplificada para microempresas. De acuerdo con el Decreto 2420 y 2496 de 2015, son: personas naturales o jurídicas que cumplan los criterios establecidos en el art. 499 del Estatuto Tributario (ET) y normas posteriores que lo modifiquen. Para el efecto se tomará el equivalente a UVT, en salarios mínimos legales vigentes. b) Microempresas que tengan Activos totales excluida la vivienda por un valor máximo de quinientos (500) SMMLV o planta de personal no superior a los (10) trabajadores que no cumplan con los requisitos para ser incluidas en el grupo 2 ni en el literal anterior (Sistema Único de Información Normativa, 2020).      
       
           .row.align-items-top.my-3.p-3(titulo="Según Conformación del Capital")
             .col-auto.mb-4.mb-lg-0        
@@ -675,13 +675,13 @@
         ul.lista-ul--color
           li.mb-4 
             i.fas.fa-check
-            | Convocar una reunión de la junta directiva donde se realice el acta que relacione las causales de disolución y presentadas, que hacen parte del objeto de liquidación.
+            | Por vencimiento del término previsto para su duración en el contrato.
           li.mb-4 
             i.fas.fa-check
-            | Registrar el acta de disolución ante la cámara de comercio.
+            | Por la imposibilidad de desarrollar el objeto social.
           li.mb-4 
             i.fas.fa-check
-            | Nombrar un liquidador para determinar el patrimonio social y el inventario.
+            | Por reducción del número de asociados a menos del requerido en la ley para su formación o funcionamiento, o por aumento que exceda del límite máximo fijado en la misma ley.
           li.mb-4 
             i.fas.fa-check
             | Por la declaración de quiebra de la sociedad.
@@ -698,7 +698,7 @@
             | Por decisión de los asociados.
           li.mb-4 
             i.fas.fa-check
-            | Por decisión de autoridad competente en los casos expresamente previstos en las leyes, y
+            | Por decisión de autoridad competente en los casos expresamente previstos en las leyes.
           li.mb-4 
             i.fas.fa-check
             | Por las demás causales establecidas en las leyes, en relación con todas o algunas de las formas de sociedad que regula este Código.
@@ -886,6 +886,7 @@
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p Consejo Técnico de Contaduría Pública (CTCP)
+  
 
 
 </template>

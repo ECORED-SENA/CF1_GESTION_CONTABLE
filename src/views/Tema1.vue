@@ -56,36 +56,42 @@
               ul.lista-ul--color
                 li.mb-4 
                   i.fas.fa-check
-                  | Actos de desviación de la clientela.         
+                  | Actos de desviación de la clientela        
                 li.mb-4  
                   i.fas.fa-check
-                  | Actos de desorganización.            
+                  | Actos de desorganización           
                 li.mb-4  
                   i.fas.fa-check
-                  | Actos de confusión.         
+                  | Actos de confusión      
                 li.mb-4  
                   i.fas.fa-check
-                  | Actos de engaño.           
+                  | Actos de engaño        
                 li.mb-4.mb-lg-0 
                   i.fas.fa-check
-                  | Actos de comparación.
+                  | Actos de descrédito
+                li.mb-4.mb-lg-0 
+                  i.fas.fa-check
+                  | Actos de comparación
             .col-lg-6
-              ul.lista-ul--color
+              ul.lista-ul--color                
                 li.mb-4  
                   i.fas.fa-check
-                  | Actos de imitación.          
+                  | Actos de imitación          
                 li.mb-4 
                   i.fas.fa-check
-                  | Explotación de la reputación ajena.         
+                  | Explotación de la reputación ajena         
+                li.mb-4 
+                  i.fas.fa-check
+                  | ●	Violación de secretos         
                 li.mb-4  
                   i.fas.fa-check
-                  | Inducción a la ruptura contractual.         
+                  | Inducción a la ruptura contractual         
                 li.mb-4  
                   i.fas.fa-check
-                  | Violación de normas.     
+                  | Violación de normas     
                 li
                   i.fas.fa-check
-                  | Pactos desleales de exclusividad.   
+                  | Pactos desleales de exclusividad   
 
   
     .titulo-tercero
