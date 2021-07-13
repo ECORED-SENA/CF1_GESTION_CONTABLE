@@ -1,0 +1,16 @@
+.img-200 img {
+  width: 500px !important;
+  margin: auto;
+}
+
+.bloque-texto-a.color-primario.b {
+  background-color: #6595BF;
+}
+
+.bloque-texto-a.color-primario.b::before {
+  background-color: #E8DCD0;
+}
+
+.fond1 {
+  background-color: #CF976C !important;
+}
