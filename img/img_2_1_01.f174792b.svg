@@ -1,0 +1,19 @@
+<svg id="Grupo_58887" data-name="Grupo 58887" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104.945" height="105.539" viewBox="0 0 104.945 105.539">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_25621" data-name="Rectángulo 25621" width="104.945" height="105.539" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_24942" data-name="Grupo 24942" clip-path="url(#clip-path)">
+    <path id="Trazado_64706" data-name="Trazado 64706" d="M85.068,28.309C92.7,36.9,95.821,46.9,95.821,58.288A47.161,47.161,0,1,1,48.661,11.127c11.078,0,21.621,3.48,29.6,10.453" transform="translate(-0.167 -1.241)" fill="none" stroke="#344154" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_64707" data-name="Trazado 64707" d="M73.128,45.524c2.787,2.7,4.834,9.731,4.834,15.326A26.738,26.738,0,1,1,51.223,34.111c5.376,0,11.215,1.528,15.1,4.675" transform="translate(-2.73 -3.803)" fill="none" stroke="#344154" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_138" data-name="Línea 138" y1="9.317" transform="translate(89.594 5.991)" fill="none" stroke="#344154" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_139" data-name="Línea 139" y1="9.317" transform="translate(84.844 10.418)" fill="none" stroke="#344154" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_140" data-name="Línea 140" y1="9.317" transform="translate(94.417 1.332)" fill="none" stroke="#344154" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_141" data-name="Línea 141" x2="9.317" transform="translate(89.637 15.35)" fill="none" stroke="#344154" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_142" data-name="Línea 142" x2="9.316" transform="translate(85.21 20.1)" fill="none" stroke="#344154" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_143" data-name="Línea 143" x2="9.317" transform="translate(94.295 10.527)" fill="none" stroke="#344154" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_64708" data-name="Trazado 64708" d="M62.333,58.382a8.869,8.869,0,1,1-8.868-8.868l.444.012-.444,8.857,45.924-46.4" transform="translate(-4.972 -1.336)" fill="none" stroke="#344154" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_64709" data-name="Trazado 64709" d="M7.5,58.955a41.827,41.827,0,0,0,82.7,8.868H80.141A32.067,32.067,0,1,1,49.329,26.885V17.126A41.877,41.877,0,0,0,7.5,58.955" transform="translate(-0.836 -1.909)" fill="#f9a44a"/>
+  </g>
+</svg>
