@@ -63,13 +63,13 @@
                 li.mb-4  
                   i.fas.fa-check
                   | Actos de confusión      
-                li.mb-4  
+                li.mb-4 
                   i.fas.fa-check
                   | Actos de engaño        
-                li.mb-4.mb-lg-0 
+                li.mb-4
                   i.fas.fa-check
                   | Actos de descrédito
-                li.mb-4.mb-lg-0 
+                li.mb-4
                   i.fas.fa-check
                   | Actos de comparación
             .col-lg-6
@@ -82,7 +82,7 @@
                   | Explotación de la reputación ajena         
                 li.mb-4 
                   i.fas.fa-check
-                  | ●	Violación de secretos         
+                  | Violación de secretos         
                 li.mb-4  
                   i.fas.fa-check
                   | Inducción a la ruptura contractual         
