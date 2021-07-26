@@ -200,7 +200,7 @@ export default {
         'http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html',
     },
     {
-      referencia: 'Secretaría del Senado (2020, noviembre 6). Ley 223 de 1995.',
+      referencia: 'Secretaría del Senado (2020, noviembre 6). Ley 222 de 1995.',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html',
     },

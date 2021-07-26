@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 La empresas
+      h1 La empresa
 
     .bloque-texto-a.gris-azul.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
@@ -34,7 +34,7 @@
             .col-auto.mb-4.mb-lg-0        
               img(src="@/assets/tema2/img_2_1_01.svg", alt="alt", style="width:90px;")          
             .col-lg
-              p #[strong Con ánimo de lucro:] son empresas que tienen por objetivo la generación de rentabilidad o beneficios económicos, los cuales serán distribuidos entre los socios o propietarios. En esta clasificación podemos mencionar: persona naturales y jurídicas. 
+              p #[strong Con ánimo de lucro:] son empresas que tienen por objetivo la generación de rentabilidad o beneficios económicos, los cuales serán distribuidos entre los socios o propietarios. En esta clasificación podemos mencionar: personas naturales y jurídicas. 
               p #[strong Sin ánimo de lucro:] son empresas creadas en apoyo de la comunidad. No se distribuyen las ganancias, estas son invertidas en la organización para beneficio social. En este grupo se encuentran: fundaciones de beneficencia, fondos de empleados, corporaciones civiles, clubes deportivos, etc.
           .row.align-items-top.my-3.p-3(titulo="Según su actividad económica")
             .col-auto.mb-4.mb-lg-0        
@@ -44,7 +44,7 @@
 
               p #[strong Empresas mineras:] son las empresas que explotan los recursos del subsuelo.  Ejemplo: empresas petroleras, de piedras preciosas.
 
-              p #[strong Empresas industriales:] son aquellas que transforman materia prima en producto terminados. Ejemplo: fábricas de jean, de calzado y muebles.
+              p #[strong Empresas industriales:] son aquellas que transforman materia prima en productos terminados. Ejemplo: fábricas de jean, de calzado y muebles.
 
               p #[strong Empresas comerciales:] realizan actividades de compra y venta de bienes. Ejemplo: empresas de electrodomésticos, supermercados, etc.
 
@@ -86,7 +86,7 @@
               img(src="@/assets/tema2/img_2_1_05.svg", alt="alt", style="width:90px;")          
             .col-lg
               p #[strong Multinacionales:] son aquellas empresas que realizan operaciones a nivel mundial, generalmente constituida con capital extranjero. Ejemplo: BBVA.
-              p #[strong Grupos económicos:] son empresas que pertenecen a al mismo grupo de socios o propietarios, se dedican a diferentes sectores de la economía. Ejemplo: Grupo Santo Domingo, Grupo Luis Carlos Sarmiento Angulo.
+              p #[strong Grupos económicos:] son empresas que pertenecen al mismo grupo de socios o propietarios, se dedican a diferentes sectores de la economía. Ejemplo: Grupo Santo Domingo, Grupo Luis Carlos Sarmiento Angulo.
               p #[strong Nacionales:] son las empresas creadas en el territorio colombiano, cuentan con una empresa principal y varias sucursales. Ejemplo: Arturo calle, Panamericana.
               p #[strong Locales:] son las empresas que funcionan dentro de la misma localidad.
 
@@ -775,7 +775,7 @@
               li.mb-4 
                 i.fas.fa-check
                 | Diseñar e implementar un programa de Seguridad y Salud en el Trabajo, aplicable de acuerdo con el número de trabajadores.
-      .py-3.py-md-4(titulo="Normas tributirias")
+      .py-3.py-md-4(titulo="Normas tributarias")
         .row.justify-content-center
           .col-lg-10
             h4 Normas tributarias

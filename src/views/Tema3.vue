@@ -86,7 +86,7 @@
           p.mb-0 #[strong Misión:] es la razón de ser de la empresa, el motivo por el cual existe. Allí se establece el mercado objetivo, los productos y la ventaja competitiva. Debe ser motivadora, amplia y permanente.
       .col-md-6.col-lg-3.mb-4
         .tarjeta.tarjeta-gris.p-4.h_100.topBottomLines
-          p.mb-0 #[strong Visión:] es lo que se de espera en un futuro, por ello se implementan estrategias que contribuyan a los resultados esperados. Es importante que sea inspiradora y se actualice conforme los cambios del entorno.
+          p.mb-0 #[strong Visión:] es lo que se espera en un futuro, por ello se implementan estrategias que contribuyan a los resultados esperados. Es importante que sea inspiradora y se actualice conforme los cambios del entorno.
       .col-md-6.col-lg-3.mb-4
         .tarjeta.tarjeta-gris.p-4.h_100.topBottomLines
           p.mb-0 #[strong Objetivos estratégicos:] deben ser medibles y cuantificables en el tiempo, hace referencia a los resultados específicos por alcanzar. 
